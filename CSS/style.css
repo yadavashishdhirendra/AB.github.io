@@ -72,7 +72,7 @@ nav ul li a {
     text-decoration: none;
     font-size: var(--Subpara-Font);
     letter-spacing: var(--letter-spacing);
-    padding: 8px 15px;
+    padding: 8px 8px;
 }
 
 nav ul ul {
