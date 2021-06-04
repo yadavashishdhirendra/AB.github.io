@@ -229,6 +229,9 @@ nav ul ul ul li {
     nav .logo img {
         padding: 0px 0px 0px 10px;
     }
+    nav ul li a{
+        padding: 8px 15px;
+    }
 }
 
 /* nav responsive ends here */
