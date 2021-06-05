@@ -79,6 +79,9 @@
     nav ul li a {
         line-height: 0px;
     }
+    nav ul li:hover>ul{
+        top: 60px;
+    }
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
